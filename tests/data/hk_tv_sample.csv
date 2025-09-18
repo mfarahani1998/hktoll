@@ -1,0 +1,4 @@
+facility,vehicle_class,start_time,end_time,toll_hkd
+Cross-Harbour Tunnel,private_car,07:00,10:00,40
+Cross-Harbour Tunnel,private_car,10:00,17:00,30
+Western Harbour Crossing,private_car,00:00,23:59,60
